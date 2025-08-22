@@ -35,4 +35,4 @@ I love **coding, reading, and traveling** — always curious to explore both new
 ---
 
 ### 🤝 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/shatakshi-sen-08b615228/))    
+- [LinkedIn](https://www.linkedin.com/in/shatakshi-sen-08b615228/)
