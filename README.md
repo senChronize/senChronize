@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shatakshi Sen  
 
-💻 **AI & ML Enthusiast | Backend Developer | Spring Boot | **  
+💻 **AI & ML Enthusiast | Backend Developer | Spring Boot**  
 
 I’m a CSE graduate passionate about building scalable backend systems and exploring intelligent solutions through AI/ML and Data Science. 
 Currently, I’m working on **Spring Boot projects** (APIs, JPA, Security, AOP) practicing **DSA** for interviews, and learning how to integrate **Python & ML** into real-world applications.
